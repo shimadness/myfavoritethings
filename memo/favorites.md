@@ -9,6 +9,8 @@
 - Game
   - FF7
   - Moon
+- Animation
+  - 天元突破グレンラガン
 - Magazine
   - 僕の心のヤバイやつ
   - ドラゴンボール
